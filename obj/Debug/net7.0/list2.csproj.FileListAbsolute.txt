@@ -1,0 +1,15 @@
+E:\Pemograman\list2\bin\Debug\net7.0\list2.exe
+E:\Pemograman\list2\bin\Debug\net7.0\list2.deps.json
+E:\Pemograman\list2\bin\Debug\net7.0\list2.runtimeconfig.json
+E:\Pemograman\list2\bin\Debug\net7.0\list2.dll
+E:\Pemograman\list2\bin\Debug\net7.0\list2.pdb
+E:\Pemograman\list2\obj\Debug\net7.0\list2.csproj.AssemblyReference.cache
+E:\Pemograman\list2\obj\Debug\net7.0\list2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemograman\list2\obj\Debug\net7.0\list2.AssemblyInfoInputs.cache
+E:\Pemograman\list2\obj\Debug\net7.0\list2.AssemblyInfo.cs
+E:\Pemograman\list2\obj\Debug\net7.0\list2.csproj.CoreCompileInputs.cache
+E:\Pemograman\list2\obj\Debug\net7.0\list2.dll
+E:\Pemograman\list2\obj\Debug\net7.0\refint\list2.dll
+E:\Pemograman\list2\obj\Debug\net7.0\list2.pdb
+E:\Pemograman\list2\obj\Debug\net7.0\list2.genruntimeconfig.cache
+E:\Pemograman\list2\obj\Debug\net7.0\ref\list2.dll
